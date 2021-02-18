@@ -1,0 +1,15 @@
+body {
+	display: block;
+	text-align: center;
+}
+table {
+	border: 1px solid black;
+	border-radius: 10px;
+	text-align: center;
+}
+th {
+	width: auto;
+}
+th.src {
+	width: 1000px;
+}
